@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ralucodex1
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate with Famous s coding companies 
 
 
 <!---
