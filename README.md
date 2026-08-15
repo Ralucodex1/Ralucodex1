@@ -11,14 +11,6 @@
 **Tools:** Git, GitHub, VS Code  
 **Areas of Interest:** Software Engineering, Web Development, AI, and Data
 
-## 🚀 Projects
-
-### 🎬 Hollywood Movie Premiere
-Interactive event website built using HTML, CSS, and JavaScript with RSVP functionality, dark mode, and interactive UI features.
-
-### 📋 Internship Tracker — In Progress
-Web application designed to help students organize and track internship applications throughout the recruiting process.
-
 ## 📫 Let's Connect
 
 I'm currently seeking opportunities to gain hands-on software engineering experience and continue developing my technical skills.
